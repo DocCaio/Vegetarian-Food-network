@@ -1,1 +1,9 @@
-@im $fonte: "Jost", sans-serif;/*# sourceMappingURL=style.css.map */
+.containner {
+  display: flex;
+}
+
+.containner-nav {
+  display: flex;
+}
+
+@i;/*# sourceMappingURL=style.css.map */

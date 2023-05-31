@@ -1,15 +1,3 @@
-@import '/styles/components/header';
+@import './componets/header';
+@import './componets/main';
 
-// Fontes
-$fonte: 'Jost', sans-serif;
-
-// Cores
-$cor-primaria: #495371;
-$cor-shadow: #FBDA40;
-$cor-header: #FACE00;
-
-
-
-
-// tamanho das fontes
-$tamanho-do-texto: 3rem;
