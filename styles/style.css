@@ -11,21 +11,25 @@
 
 .containner-2 {
   margin-left: 1em;
+  text-align: center;
+}
+.containner-2 .sec-main {
+  display: flex;
+  flex-direction: column;
+}
+.containner-2 .img-main {
+  width: 20%;
 }
 .containner-2 .title {
   font-family: "Jost", sans-serif;
   font-weight: 500;
-  font-size: 12px;
+  font-size: 20px;
 }
 .containner-2 .sub-title {
   font-family: "Jost", sans-serif;
   font-size: 300;
-  font-size: 10px;
+  font-size: 15px;
   color: #FACE00;
-}
-.containner-2 .main-img {
-  height: 50%;
-  width: 50%;
 }
 .containner-2 .button-main {
   margin-right: 1em;
@@ -36,4 +40,18 @@
   padding: 1px 5px;
   gap: 10px;
   margin-top: 1em;
+  width: 50%;
+}
+.containner-2 .sec-main-2 {
+  display: flex;
+  margin-top: 1em;
+}
+.containner-2 .img-main-2 {
+  display: flex;
+  width: 15%;
+}
+.containner-2 .title-2 {
+  font-family: "Jost", sans-serif;
+  font-weight: 500;
+  font-size: 25px;
 }/*# sourceMappingURL=style.css.map */

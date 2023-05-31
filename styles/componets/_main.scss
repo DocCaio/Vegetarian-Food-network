@@ -3,24 +3,29 @@
 
 .containner-2 {
  margin-left: 1em;
+ text-align: center;
+
+ .sec-main {
+    display: flex;
+    flex-direction: column;
+ }
+ .img-main {
+    width: 20%;
+ }
 
 .title {
     font-family: $fonte;
     font-weight: 500;
-    font-size: 12px;
+    font-size: 20px;
 }
 
 .sub-title {
     font-family: $fonte;
     font-size: 300;
-    font-size: 10px;
+    font-size: 15px;
     color: $cor-header;
 }
 
-.main-img {
-    height: 50%;
-    width: 50%;
-}
 
 .button-main {
     margin-right: 1em;
@@ -31,7 +36,25 @@
     padding: 1px 5px;
     gap: 10px;
     margin-top: 1em;
+    width: 50%;
     
+}
+
+ .sec-main-2 {
+     display: flex;
+     margin-top: 1em;   
+}
+
+.img-main-2 {
+    display: flex;
+    width:15%;    
+
+}
+
+.title-2 {
+    font-family: $fonte;        
+    font-weight: 500;
+    font-size: 25px;
 }
 
 }
