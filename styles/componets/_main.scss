@@ -1,17 +1,26 @@
+@import '../abstract/variaveis';
 
+
+.containner-2 {
+ margin-left: 1em;
 
 .title {
     font-family: $fonte;
     font-weight: 500;
+    font-size: 12px;
 }
 
 .sub-title {
     font-family: $fonte;
     font-size: 300;
+    font-size: 10px;
+    color: $cor-header;
 }
 
 .main-img {
     height: 50%;
     width: 50%;
+}
+
 }
 
