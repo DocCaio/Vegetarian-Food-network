@@ -1,0 +1,42 @@
+.sec-extra {
+ text-align: center;
+.title-3 {
+    font-family: $fonte;
+    font-weight: 500 bolder;
+    
+}
+
+.p-extra {
+    font-family: $fonte;
+    font-weight: 400;
+    text-align: right;
+}
+
+.button-extra {
+background: #FFFFFF;
+border: 1px solid #FBDA40;
+box-shadow: 4px 2px 4px #FBDA40;
+border-radius: 4px;
+padding: 11px 15px;
+gap: 10px;
+}
+
+
+}
+
+.sec-extra-2 {
+    text-align: center;
+    margin-top: 1em;
+
+    .title-4 {
+        font-family: $fonte;
+        font-weight: 500 bolder; 
+    }
+    .p-extra-2 {
+        font-family: $fonte;
+        font-weight: 400;
+        
+
+    }
+    
+}

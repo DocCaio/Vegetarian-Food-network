@@ -33,10 +33,13 @@
     border: 1px solid $cor-shadow;
     box-shadow: 4px 2px 4px $cor-shadow;
     border-radius: 4px;
-    padding: 1px 5px;
+    padding: 11px 15px;
     gap: 10px;
     margin-top: 1em;
-    width: 50%;
+  
+
+
+
     
 }
 
@@ -55,6 +58,23 @@
     font-family: $fonte;        
     font-weight: 500;
     font-size: 25px;
+}
+
+.p-main{
+    font-family: $fonte;        
+    font-weight: 500;
+}
+
+.ul-main {
+    font-family:$fonte;
+    font-weight: 400;
+    margin-top: 1em;
+}
+
+.img-main {
+    margin-top: 1em;
+    width: 15em;
+    
 }
 
 }
