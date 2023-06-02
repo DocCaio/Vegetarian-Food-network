@@ -103,5 +103,17 @@
 }
 
 .sec-extra-3 {
+  text-align: center;
   flex-direction: column;
+}
+.sec-extra-3 .Blog {
+  padding: 1em;
+  border-radius: white 12px solid;
+}
+.sec-extra-3 .img-extra {
+  width: 70%;
+}
+
+body {
+  background-color: #FDF5E6;
 }/*# sourceMappingURL=style.css.map */

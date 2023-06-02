@@ -42,5 +42,16 @@ gap: 10px;
 }
 
 .sec-extra-3 {
+    text-align: center;
     flex-direction: column;
+
+    .Blog{ 
+        padding: 1em;   
+      border-radius: white 12px solid;
+    }
+
+    .img-extra {
+        width: 70%;
+    }
+    
 }
