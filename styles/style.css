@@ -1,5 +1,6 @@
 .containner {
   display: flex;
+  margin-top: 2em;
 }
 .containner .img-header {
   width: 20%;
@@ -112,6 +113,24 @@
 }
 .sec-extra-3 .img-extra {
   width: 70%;
+}
+
+.containner-3 {
+  text-align: center;
+}
+.containner-3 .form-control {
+  background-image: url("/img/banner.png");
+  padding: 0.7em;
+  margin: 0.5 1em;
+}
+.containner-3 .form-control input {
+  width: 50%;
+  border-radius: 42px;
+}
+.containner-3 .form-control button {
+  background: #F2B133;
+  box-shadow: 0px 4px 32px rgba(223, 195, 124, 0.25);
+  border-radius: 33px;
 }
 
 body {
