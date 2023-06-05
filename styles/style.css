@@ -2,12 +2,10 @@
   display: flex;
   margin-top: 2em;
 }
-.containner .img-header {
-  width: 20%;
-}
 .containner .list {
   display: flex;
   font-size: 0.5em;
+  font-family: "Jost", sans-serif;
 }
 
 .containner-2 {
@@ -63,10 +61,6 @@
   font-family: "Jost", sans-serif;
   font-weight: 400;
   margin-top: 1em;
-}
-.containner-2 .img-main {
-  margin-top: 1em;
-  width: 15em;
 }
 
 .sec-extra {

@@ -2,21 +2,22 @@
 
 .containner  {
     display: flex;
-    margin-top: 2em;    
+    margin-top: 2em;   
    
 
-    .img-header {
-        width: 20%;
-    }
+   
 
     .list {
         display: flex;
         font-size: 0.5em;
+        font-family: $fonte;
     }
    
      
 
 }
+
+
 
 
 
