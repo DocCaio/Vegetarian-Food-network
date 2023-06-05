@@ -1,15 +1,19 @@
 .sec-extra {
  text-align: center;
+ margin-top: 1em;
+
 .title-3 {
     font-family: $fonte;
     font-weight: 500 bolder;
+    font-size: 1em;
+    margin-bottom: 1em;
     
 }
 
 .p-extra {
     font-family: $fonte;
     font-weight: 400;
-    text-align: right;
+    text-align: center;
 }
 
 .button-extra {
@@ -19,6 +23,7 @@ box-shadow: 4px 2px 4px #FBDA40;
 border-radius: 4px;
 padding: 11px 15px;
 gap: 10px;
+margin-top: 1em;
 }
 
 
@@ -30,7 +35,9 @@ gap: 10px;
 
     .title-4 {
         font-family: $fonte;
-        font-weight: 500 bolder; 
+        font-weight: 500 bolder;
+        margin-bottom: 1em; 
+        
     }
     .p-extra-2 {
         font-family: $fonte;
